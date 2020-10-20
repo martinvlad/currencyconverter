@@ -55,7 +55,7 @@ if(fromCurrency != null && toCurrency != null){
   return (
     <>
       
-    <h1>Currency Exchange Conversion</h1>
+    <h1>Currency Exchange Rates</h1>
     <CurrencyRow 
     currencyOptions= {currencyOptions}
     selectedCurrency = {fromCurrency}
